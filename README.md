@@ -1,5 +1,5 @@
 # Data-Analyst-Mohammed
-. Insights and Findings
+**Insights and Findings**
 Based on the exploratory analysis conducted on the Titanic dataset, several key insights emerged:
 •	Gender and Survival: Female passengers had a significantly higher survival rate than males. This aligns with the maritime protocol of "women and children first." The bar chart clearly showed survival rates among females were more than double that of males.
 ![image](https://github.com/user-attachments/assets/159ee56c-347b-48c2-916c-a9f659f4f8ab)
@@ -12,8 +12,8 @@ Based on the exploratory analysis conducted on the Titanic dataset, several key 
 •	Embarkation Port: While not a major predictor, passengers embarking from Cherbourg (C) showed slightly higher survival rates compared to those from Queenstown (Q) or Southampton (S), likely due to the class distribution of passengers embarking from each port.
 •	Correlation Matrix: The heatmap indicated moderate positive correlations between survival and variables like fare and class (inverse relationship between class number and survival).
 ![Uploading image.png…]()
-6. Conclusion
-Implications:
+****Conclusion**
+**Implications:**
 •	Data-driven decision-making in safety planning can benefit from understanding such trends—ensuring equitable evacuation plans regardless of class or gender.
 •	This type of analysis also reinforces the importance of fair access to emergency resources, especially in transportation and disaster response sectors.
 Future Directions:

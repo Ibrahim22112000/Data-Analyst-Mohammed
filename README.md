@@ -1,7 +1,9 @@
 # Data-Analyst-Mohammed
 **Insights and Findings**
+
 Based on the exploratory analysis conducted on the Titanic dataset, several key insights emerged:
-•	Gender and Survival: Female passengers had a significantly higher survival rate than males. This aligns with the maritime protocol of "women and children first." The bar chart clearly showed survival rates among females were more than double that of males.
+
+**	Gender and Survival**: Female passengers had a significantly higher survival rate than males. This aligns with the maritime protocol of "women and children first." The bar chart clearly showed survival rates among females were more than double that of males.
 
 ![image](https://github.com/user-attachments/assets/159ee56c-347b-48c2-916c-a9f659f4f8ab)
 
@@ -22,12 +24,17 @@ Based on the exploratory analysis conducted on the Titanic dataset, several key 
 ![image](https://github.com/user-attachments/assets/b12b42fc-e771-4aa9-a860-00b6131548f1)
 
 ****Conclusion**
+
 Implications:
-•	Data-driven decision-making in safety planning can benefit from understanding such trends—ensuring equitable evacuation plans regardless of class or gender.
+•	Data-driven decision-making in safety planning can benefit from understanding such trends ensuring equitable evacuation plans regardless of class or gender.
+
 •	This type of analysis also reinforces the importance of fair access to emergency resources, especially in transportation and disaster response sectors.
+
 Future Directions:
 •	A predictive machine learning model (e.g., logistic regression, decision tree, or random forest) could be developed using the features explored (e.g., age, sex, class) to classify survival likelihood.
+
 •	Further feature engineering (e.g., extracting titles from names, combining family members) can be explored to improve model performance.
+
 •	Comparison with similar maritime disasters may reveal broader patterns or validate findings.
 
 

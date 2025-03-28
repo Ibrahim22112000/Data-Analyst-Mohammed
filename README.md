@@ -1,10 +1,10 @@
 # Data-Analyst-Mohammed
 
-# Project Description: Exploratory Data Analysis (EDA) on Titanic Dataset
+# Exploratory Data Analysis 
 
-# Project Title: Unveiling the Dynamics of Disaster: A Multifaceted Exploratory Data Analysis of the Titanic Passenger Dataset
+Unveiling the Dynamics of Disaster: A Multifaceted Exploratory Data Analysis of the Titanic Passenger Dataset
 
-**Objective:*
+Objective:
 
 The main goal of this project is to conduct an exploratory data analysis (EDA) on the Titanic dataset. I want to dig into the data to find interesting patterns, trends, and insights about the passengers and what factors might have influenced their chances of survival during the Titanic disaster. By looking at things like age, gender, passenger class, and fare, I hope to get a better understanding of who survived and why.
 
@@ -72,27 +72,32 @@ By passenger class: Analyze how passenger class affected survival chances.
 
 By age group: Divide passengers into age groups and see how survival varies.
 
-Insights and Findings:
 
-Summarize the findings based on the visualizations and statistical analysis. I'll highlight any notable trends and patterns (e.g., whether women and children had higher survival rates, or if first-class passengers had a survival advantage).
-
-
-**Insights and Findings*
+# Insights and Findings
 
 Based on the exploratory analysis conducted on the Titanic dataset, several key insights emerged:
 
 Gender and Survival: Female passengers had a significantly higher survival rate than males. This aligns with the maritime protocol of "women and children first." The bar chart clearly showed survival rates among females were more than double that of males.
 
+![image](https://github.com/user-attachments/assets/2063ad74-cc5b-4fb3-afd6-8aac7e85ec50)
 
-![image](https://github.com/user-attachments/assets/159ee56c-347b-48c2-916c-a9f659f4f8ab)
 
 Passenger Class and Survival: First-class passengers had the highest probability of survival. Passengers in second and third class had considerably lower survival rates, indicating a class-based disparity in access to lifeboats or early evacuation.
 
-![image](https://github.com/user-attachments/assets/1cae25c1-29c8-4474-9925-5b0708c43f2e)
+
+
+![image](https://github.com/user-attachments/assets/159ee56c-347b-48c2-916c-a9f659f4f8ab)
+
+
 Age and Survival: Children (especially under age 12) showed a higher survival rate compared to adults and seniors. This reinforces the idea that younger passengers were prioritized during evacuation efforts.
 
-![image](https://github.com/user-attachments/assets/fc609473-693c-4644-a55a-036edef3f45a)
+
+![image](https://github.com/user-attachments/assets/1cae25c1-29c8-4474-9925-5b0708c43f2e)
+
+
 Fare Paid: There was a positive correlation between fare amount and survival rate. Passengers who paid higher fares (often in first class) had better survival outcomes.
+
+
 
 ![image](https://github.com/user-attachments/assets/eb02fc9d-f97e-4de1-ab91-b82bc50e1160)
 
@@ -100,7 +105,6 @@ Embarkation Port: While not a major predictor, passengers embarking from Cherbou
 
 Correlation Matrix: The heatmap indicated moderate positive correlations between survival and variables like fare and class (inverse relationship between class number and survival).
 
-![image](https://github.com/user-attachments/assets/b12b42fc-e771-4aa9-a860-00b6131548f1)
 
 # Deliverables:
 

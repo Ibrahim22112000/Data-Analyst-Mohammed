@@ -116,17 +116,9 @@ This EDA project will show my ability to analyze data, find meaningful insights,
 
 # Conclusion
 
-Implications:
-Data-driven decision-making in safety planning can benefit from understanding such trends ensuring equitable evacuation plans regardless of class or gender.
+In summary, this exploratory data analysis has underscored key factors influencing survival on the Titanic, highlighting the advantages conferred by being female, of a higher passenger class, or a child. These patterns likely reflect the "women and children first" protocol and disparities in resource access. The implications extend to modern safety planning, emphasizing equitable evacuation strategies regardless of class or gender. Future work includes building predictive models using features like age, sex, and class, and further feature engineering (e.g., titles, family size) to improve accuracy. A comparative analysis with other maritime disasters may reveal broader patterns, validating these findings and informing a more comprehensive understanding of crisis survival dynamics.
 
-This type of analysis also reinforces the importance of fair access to emergency resources, especially in transportation and disaster response sectors.
 
-Future Directions:
-A predictive machine learning model (e.g., logistic regression, decision tree, or random forest) could be developed using the features explored (e.g., age, sex, class) to classify survival likelihood.
-
-Further feature engineering (e.g., extracting titles from names, combining family members) can be explored to improve model performance.
-
-Comparison with similar maritime disasters may reveal broader patterns or validate findings.
 
 
 
